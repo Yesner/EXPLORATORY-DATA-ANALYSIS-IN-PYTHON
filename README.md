@@ -13,6 +13,7 @@ So, What do we can see in the previous graph?
 * The highest count, 1375, is observed for birth weights within the range of 7.175 to 7.773.
 
 ## Sales Optimization Case Study - Second Exercise
+Notebook: [Second Exercise](Case_Study_SecondExercise.ipynb)
 
 You work as a data analyst for ABC, an online retailer that offers everything from fashion to electronics. For the last six months, the company's sales have been declining, and the management is worried about the viability of the enterprise going forward. The management wants to understand the underlying factors contributing to the decline in sales. They are particularly interested in:
 
@@ -23,6 +24,7 @@ You work as a data analyst for ABC, an online retailer that offers everything fr
  
  ### Time Series Analysis
  1. The sales at ABC have been like a rollercoaster, going up and down every month. Can you chart this fluctuating journey and identify any seasonal patterns that might explain these ups and downs?
+ 
  2. It's a busy week at ABC, but is every day equally busy? Your task is to find out if weekdays bring in more sales than weekends or vice versa. This could help the company in planning their staffing and marketing strategies.
 
  ### Customer Segmentation
