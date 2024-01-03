@@ -24,17 +24,36 @@ You work as a data analyst for ABC, an online retailer that offers everything fr
  
  ### Time Series Analysis
  1. The sales at ABC have been like a rollercoaster, going up and down every month. Can you chart this fluctuating journey and identify any seasonal patterns that might explain these ups and downs?
+
+ ![Alt text](results/sales_trend.png)
  
  2. It's a busy week at ABC, but is every day equally busy? Your task is to find out if weekdays bring in more sales than weekends or vice versa. This could help the company in planning their staffing and marketing strategies.
 
+ ![Alt text](results/sales_by_weekday.png)
+
  ### Customer Segmentation
  1. ABC wants to roll out a VIP program but isn't sure who to invite. Your task is to identify the top 10% of customers based on their spending. What makes these customers special?
+
+![Alt text](results/01.png)
+
  2. Customer retention is a big deal at ABC. The company wants to reward customers who come back to make multiple purchases. Can you identify these loyal customers and find out what keeps them coming back?
  
  ### Product Analysis
  1. In the vast inventory of ABC, some products are stars while others are not. Can you spotlight the top 5 best-selling products in each category and suggest why they might be the customer favorites?
+
+ ![Alt text](results/02.png)
+
  2. Returns are a headache for any retail business. ABC is no exception. Your challenge is to identify products that are frequently returned and hypothesize why this might be happening.
+
+ ![Alt text](results/03.png)
 
  ### Payment and Returns
  1. People have different preferences when it comes to parting with their money. Can you find out if there's a preferred payment method for higher-value orders? This could influence future payment options offered by ABC.
+
+![Alt text](results/MedianPaymentMethod.png)
+
  2. Returns are like a leak in a boat, and ABC wants to plug it. Are there specific categories or payment methods that are more prone to returns? Your findings could help the company tighten its return policy.
+
+ ![Alt text](results/ReturnByCategory.png)
+
+ ![Alt text](results/ReturnByPaymentMethod.png)
