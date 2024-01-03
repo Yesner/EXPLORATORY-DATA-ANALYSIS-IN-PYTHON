@@ -4,7 +4,7 @@ Dataframes and Series
 ## How much did (BABY'S NAME/this 1st baby) weigh at birth? (Pounds) - First Exercise 
 Notebook: [First Exercise](Exploratory_Analysis_FirstExercise.ipynb)
 
-![Alt text](result.png)
+![Result](results/result.png)
 
 So, What do we can see in the previous graph?
 
